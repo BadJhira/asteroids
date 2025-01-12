@@ -1,5 +1,5 @@
 # this allows us to use code from the open-source library throughout the file
-import pygame
+import pygame # type: ignore
 from constants import *
 from player import *
 
